@@ -13,12 +13,12 @@ const {{cookiecutter.camel_case_name}} = () => {
   );
 };
 const styles = StyleSheet.create({
-  container:{
+  container: {
     flex: 1,
-    backgroundColor: "#fff",
+    backgroundColor: "#fff"
   },
   heading: {
-    fontSize: 20,
+    fontSize: 20
   }
 });
 
