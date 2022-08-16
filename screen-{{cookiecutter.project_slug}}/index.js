@@ -22,7 +22,4 @@ const styles = StyleSheet.create({
   }
 });
 
-export default {
-  title: "{{cookiecutter.camel_case_name}}",
-  navigator: {{cookiecutter.camel_case_name}}
-};
+export default {{cookiecutter.camel_case_name}};
